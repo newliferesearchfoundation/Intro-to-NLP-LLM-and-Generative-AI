@@ -2,7 +2,7 @@
 
 ## Instructor (s)
 
-Joseph L. Tsenum
+Joseph Luper Tsenum
 
 ## Introduction to NLP, LLM, and Generative AI
 
